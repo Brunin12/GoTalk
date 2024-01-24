@@ -1,14 +1,14 @@
 <!-- jQuery -->
-<script src="<?= base_url('assets/plugins/jquery/jquery.min.js') ?>"></script>
+<script src="<?= base_url('public/assets/plugins/jquery/jquery.min.js') ?>"></script>
 <!-- jQuery UI 1.11.4 -->
-<script src="<?= base_url('assets/plugins/jquery-ui/jquery-ui.min.js') ?>"></script>
+<script src="<?= base_url('public/assets/plugins/jquery-ui/jquery-ui.min.js') ?>"></script>
 <!-- Bootstrap 4 -->
-<script src="<?= base_url('assets/plugins/bootstrap/js/bootstrap.bundle.min.js') ?>"></script>
+<script src="<?= base_url('public/assets/plugins/bootstrap/js/bootstrap.bundle.min.js') ?>"></script>
 
 <!-- overlayScrollbars -->
-<script src="<?= base_url('assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js') ?>"></script>
+<script src="<?= base_url('public/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js') ?>"></script>
 <!-- AdminLTE App -->
-<script src="<?= base_url('assets/dist/js/adminlte.js') ?>"></script>
+<script src="<?= base_url('public/assets/dist/js/adminlte.js') ?>"></script>
 
 
 <script>
